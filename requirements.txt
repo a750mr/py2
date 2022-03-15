@@ -2,3 +2,5 @@ requests
 pytest
 allure-pytest
 BeautifulSoup4
+selenium
+webdriver-manager
